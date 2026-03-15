@@ -19,3 +19,6 @@ True.csv
 3. TF-IDF vectorization
 4. Model training
 5. Prediction
+## Model Results
+
+![Result](result.png)
