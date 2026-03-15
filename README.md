@@ -1,4 +1,4 @@
-# Real and Fake News Detection
+# Fake News Detection using NLP and Machine Learning
 
 This project detects fake and real news using NLP and Machine Learning.
 
