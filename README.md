@@ -21,4 +21,6 @@ True.csv
 5. Prediction
 ## Model Results
 
-![Result](result.png)
+## Model Results
+
+![Result](Result.png)
