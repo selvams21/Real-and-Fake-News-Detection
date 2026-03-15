@@ -1,2 +1,21 @@
-# Real-and-Fake-News-Detection
-NLP based Fake News Classification using Python, Pandas, Scikit-learn and TF-IDF Vectorizer.
+# Real and Fake News Detection
+
+This project detects fake and real news using NLP and Machine Learning.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- TF-IDF
+- Logistic Regression
+
+## Dataset
+Fake.csv
+True.csv
+
+## Steps
+1. Data cleaning
+2. Text preprocessing
+3. TF-IDF vectorization
+4. Model training
+5. Prediction
